@@ -1,0 +1,13 @@
+{
+    "name": "wheels/service",
+    "description": "test package",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "autoload":
+    {
+    	"psr4":{
+    		"Services\\": "service/"
+    	}
+    }
+}
