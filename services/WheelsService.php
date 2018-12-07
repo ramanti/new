@@ -10,7 +10,7 @@
  *
  * @version    0.1
  */
-namespace Services;
+namespace Services1;
 
 use App\Services\WheelsService;
 /**
