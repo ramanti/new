@@ -7,7 +7,7 @@
     "autoload":
     {
     	"psr4":{
-    		"Services\\": "service/"
+    		"Services1\\": "service/"
     	}
     }
 }
